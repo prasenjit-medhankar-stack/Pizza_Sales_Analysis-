@@ -1,5 +1,5 @@
 # Pizza_Sales_Analysis
-Data Analytics Project
+Data Analytics Project <br>
 Overview
 
 This project focuses on performing end-to-end data analytics using MS Excel, PostgreSQL, and Power BI. The workflow includes data cleaning, SQL-based data analysis, and interactive dashboard creation to generate meaningful business insights from raw data.
