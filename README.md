@@ -1,4 +1,4 @@
-<h1 align="center">🍕 Pizza Sales Data Analytics Project</h1>
+<h1 align="center">Pizza Sales Data Analytics Project</h1>
 
 <p align="center">
 End-to-End Data Analytics Project using MS Excel, PostgreSQL, and Power BI
@@ -8,30 +8,30 @@ End-to-End Data Analytics Project using MS Excel, PostgreSQL, and Power BI
 This project analyzes pizza sales data to uncover business insights such as revenue trends, customer ordering behavior, top-selling pizzas, and category performance.
 </p>
 
----
 
-# 📌 Project Overview
+# Project Overview
 
 This project demonstrates a complete data analytics workflow starting from raw data cleaning to dashboard visualization.
 
 The project includes:
-- Cleaning and preprocessing pizza sales data in MS Excel
-- Performing SQL analysis using PostgreSQL
-- Building an interactive Power BI dashboard
-- Generating business insights from sales data
+
+Cleaning and preprocessing pizza sales data in MS Excel  
+Performing SQL analysis using PostgreSQL  
+Building an interactive Power BI dashboard  
+Generating business insights from sales data  
 
 The goal of this project is to transform raw transactional data into meaningful visual insights that support business decision-making.
 
----
 
-# 📂 Dataset Information
+# Dataset Information
 
 ### Dataset Name
 `pizza_sales.csv`
 
 ### Total Records
-- **48,620 rows**
-- **12 columns**
+
+**48,620 rows**  
+**12 columns**
 
 ### Dataset Columns
 
@@ -50,9 +50,8 @@ The goal of this project is to transform raw transactional data into meaningful 
 | pizza_ingredients | Ingredients used |
 | pizza_name | Full pizza name |
 
----
 
-# 🛠️ Tools & Technologies
+# Tools & Technologies
 
 <table align="center">
 <tr>
@@ -76,110 +75,107 @@ The goal of this project is to transform raw transactional data into meaningful 
 </tr>
 </table>
 
----
 
-# ⚙️ Project Workflow
+# Project Workflow
 
-## 1️⃣ Data Cleaning in MS Excel
+## Data Cleaning in MS Excel
 
 Performed preprocessing tasks such as:
-- Removing duplicates
-- Handling missing values
-- Correcting data formatting
-- Standardizing column names
-- Checking data consistency
-- Preparing clean dataset for SQL analysis
 
----
+Removing duplicates  
+Handling missing values  
+Correcting data formatting  
+Standardizing column names  
+Checking data consistency  
+Preparing clean dataset for SQL analysis  
 
-## 2️⃣ SQL Analysis using PostgreSQL
+
+## SQL Analysis using PostgreSQL
 
 The cleaned dataset was imported into PostgreSQL for analysis.
 
 ### SQL Tasks Performed
-- Created `pizza_sales` table
-- Imported dataset into PostgreSQL
-- Performed analytical SQL queries
+
+Created `pizza_sales` table  
+Imported dataset into PostgreSQL  
+Performed analytical SQL queries  
 
 ### SQL Concepts Used
-- `SELECT`
-- `WHERE`
-- `GROUP BY`
-- `ORDER BY`
-- Aggregate Functions
-- Date Functions
-- Filtering & Sorting
+
+`SELECT`  
+`WHERE`  
+`GROUP BY`  
+`ORDER BY`  
+Aggregate Functions  
+Date Functions  
+Filtering & Sorting  
 
 ### Business Questions Solved
-- Total revenue generated
-- Average order value
-- Total pizzas sold
-- Total customer orders
-- Average pizzas per order
-- Daily order trends
-- Monthly sales trends
-- Best-selling pizza categories
-- Top-performing pizza sizes
 
----
+Total revenue generated  
+Average order value  
+Total pizzas sold  
+Total customer orders  
+Average pizzas per order  
+Daily order trends  
+Monthly sales trends  
+Best-selling pizza categories  
+Top-performing pizza sizes  
 
-# 📊 Power BI Dashboard
+
+# Power BI Dashboard
 
 An interactive Power BI dashboard was built to visualize sales performance and customer behavior.
 
 ## Dashboard Features
 
-✅ Revenue KPI Cards  
-✅ Daily & Monthly Sales Trends  
-✅ Best-Selling Pizza Analysis  
-✅ Category-wise Performance  
-✅ Pizza Size Distribution  
-✅ Interactive Filters & Slicers  
-✅ Dynamic Charts & Visuals  
+Revenue KPI Cards  
+Daily & Monthly Sales Trends  
+Best-Selling Pizza Analysis  
+Category-wise Performance  
+Pizza Size Distribution  
+Interactive Filters & Slicers  
+Dynamic Charts & Visuals  
 
----
 
-# 📈 Key Insights
+# Key Insights
 
-### Business Insights Generated
-- Identified top-selling pizza categories
-- Analyzed peak sales periods
-- Found customer ordering patterns
-- Measured revenue contribution by pizza size
-- Tracked overall business performance
+## Business Insights Generated
 
----
+Identified top-selling pizza categories  
+Analyzed peak sales periods  
+Found customer ordering patterns  
+Measured revenue contribution by pizza size  
+Tracked overall business performance  
 
-# 🚀 How to Run the Project
+
+# How to Run the Project
 
 ## Step 1: Data Cleaning
-- Open `pizza_sales.csv` in MS Excel
-- Perform cleaning and preprocessing
+
+Open `pizza_sales.csv` in MS Excel  
+Perform cleaning and preprocessing  
 
 ## Step 2: SQL Analysis
-- Open PostgreSQL
-- Create database and table
-- Run queries from `pizza_sales.sql`
+
+Open PostgreSQL  
+Create database and table  
+Run queries from `pizza_sales.sql`  
 
 ## Step 3: Power BI Dashboard
-- Open `pizza_sales_report_dash.pbix`
-- Refresh dataset connection if required
 
----
+Open `pizza_sales_report_dash.pbix`  
+Refresh dataset connection if required  
 
-# 🎯 Project Outcome
+
+# Project Outcome
 
 This project demonstrates practical skills in:
-- Data Cleaning
-- SQL Analysis
-- Data Visualization
-- Dashboard Development
-- Business Intelligence
 
-This project is suitable for:
-- Data Analyst Portfolio
-- Internship Applications
-- Resume Projects
-- SQL & Power BI Practice
+Data Cleaning  
+SQL Querying  
+Data Visualization  
+Dashboard Development  
+Business Intelligence  
 
----
+
