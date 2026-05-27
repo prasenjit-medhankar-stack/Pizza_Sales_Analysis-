@@ -154,4 +154,4 @@ Suitable for:
 
 
 
-<h3 align="center">⭐ If you like this project, give it a star on GitHub ⭐</h3>
+
